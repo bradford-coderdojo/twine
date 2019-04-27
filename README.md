@@ -6,3 +6,5 @@
 Read [A story by Wealth](https://bradford-coderdojo.github.io/twine/a_story1.html)
 
 Read [The magic cloth by Christian](https://bradford-coderdojo.github.io/twine/the_magic_cloth.html)
+
+Read [Rosie's adventure by Rosie](https://shoobster.github.io/adventure1/Rosie's%20adeventure.html)
