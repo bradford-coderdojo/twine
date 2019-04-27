@@ -1,6 +1,6 @@
 # Twine stories
 
-Welcome to our Twine library. We have stories to tell, come read them!
+**Welcome to our Twine library.** We have stories to tell, come read them!
 
 
 Read [A story by Wealth](https://bradford-coderdojo.github.io/twine/a_story1.html)
