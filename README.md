@@ -11,4 +11,4 @@ Read [Rosie's adventure by Rosie](https://shoobster.github.io/adventure1/Rosie's
 
 Read [A short & mysterious story by Lightning Gladiator](https://lightninggladiator.github.io/Chez-Is-Nice/A%20short%20&%20mysterious%20story.html)
 
-
+Read [Prison by Flaming60](https://flaming60.github.io/story/prison(2).html)
