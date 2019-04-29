@@ -1,6 +1,6 @@
-# Twine stories
+# Welcome to our Twine library
 
-**Welcome to our Twine library.** We have stories to tell, come read them!
+We have stories to tell, come read them!
 
 
 Read [A story by Wealth](https://bradford-coderdojo.github.io/twine/a_story1.html)
@@ -14,3 +14,8 @@ Read [A short & mysterious story by Lightning Gladiator](https://lightninggladia
 Read [Prison by Flaming60](https://flaming60.github.io/story/prison(2).html)
 
 Read [Best Story Ever by DarkVoidTV](https://darkvoidtv.github.io/CoderDojo/Best%20story%20ever.html)
+
+<br/><br/><br/>
+## What is Twine?
+
+Twine is a really simple way of creating stories and adventure games online. Give it a [try](https://twinery.org/)!
