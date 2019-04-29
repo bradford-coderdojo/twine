@@ -18,4 +18,4 @@ Read [Best Story Ever by DarkVoidTV](https://darkvoidtv.github.io/CoderDojo/Best
 <br/><br/><br/>
 ## What is Twine?
 
-Twine is a really simple way of creating stories and adventure games online. Give it a [try](https://twinery.org/)!
+Twine is a really simple way of creating stories and adventure games online. [Give it a try](https://twinery.org/2/#!/welcome)!
